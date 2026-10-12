@@ -1,3 +1,2 @@
 This is my first file.
 I am learning Git.
-i am testing
